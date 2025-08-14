@@ -12,7 +12,7 @@ Vercel link https://ecommerce-website-murex-one.vercel.app/
 - 🔍 Pesquisa de produtos em tempo real
 - 🎨 Design responsivo e moderno
 - 🛍️ Layout otimizado para navegação fácil
-  
+<br>
 
 - 🛠️ Tecnologias Utilizadas
 - HTML5 – Estrutura da página
