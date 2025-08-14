@@ -4,6 +4,7 @@ Este é um projeto de e-commerce desenvolvido com HTML, CSS e JavaScript, no qua
 O design foi pensado para ser simples, moderno e funcional, ideal para apresentar produtos de forma clara e atrativa.
 
 Vercel link https://ecommerce-website-murex-one.vercel.app/
+
 📸 Preview 
 <img width="1366" height="720" alt="Site e-commerce - Google Chrome 14_08_2025 18_44_13" src="https://github.com/user-attachments/assets/e1a9fd5c-bfdc-4488-abcd-66a63df0ba03" />
 
